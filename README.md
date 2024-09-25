@@ -1,7 +1,9 @@
 # HSBC Team Vision
-disclaimer: this was created as a project for a ubc course (CPSC319), not for the company itself
+Disclaimer: this was created as a project for a ubc course (CPSC319), not for the company itself
 
 An HSBC-specified virtual office meeting platform created with React and built as a serverless application using AWS Lambda and DynamoDB, that was managed and deployed using AWS SAM and CloudFormation.
+
+See "User Guide" for more details. 
 
 ### Contributors
 - [Aidan Clarke Scott](https://github.com/aidanclarkescott)
